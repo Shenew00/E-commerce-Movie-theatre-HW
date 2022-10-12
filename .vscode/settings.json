@@ -1,0 +1,22 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://yxfkycfd:9IqYFC0z4rsMo81dJa7aYYcyj07oMxYo@peanut.db.elephantsql.com/yxfkycfd",
+            "name": "e_commerce mock up"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://xhbzyhxk:ScxbGcCJ85_nRtiA-B4B819jiLNTCVZG@peanut.db.elephantsql.com/xhbzyhxk",
+            "name": "E_commerce Movie Theatre"
+        }
+    ]
+}
